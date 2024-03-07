@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SusanStarke
-- 👀 I’m interested in learning, sports, dogs and coffee!
+- 👀 I’m interested in learning, sports, dogs and coffee.
 - 🌱 I’m currently learning a lot of insights into data analysis. 
 - ⚡ Fun fact: 
 
